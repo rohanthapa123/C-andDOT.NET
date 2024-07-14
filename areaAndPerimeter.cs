@@ -1,8 +1,8 @@
 using System;
-public class Arithmetic
+public class AreaAndPerimeter
 {
 	public static void Main(string[] args){
-		Console.WriteLine("Enter any two numbers");
+		Console.WriteLine("Enter length and breadth");
 		int num1 = int.Parse(Console.ReadLine());
 		int num2 = int.Parse(Console.ReadLine());
 		int area = num1 * num2;

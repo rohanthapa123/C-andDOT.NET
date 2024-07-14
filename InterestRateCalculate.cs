@@ -1,8 +1,7 @@
 using System;
-public class Arithmetic
-{
+public class SimpleInterest{
 	public static void Main(string[] args){
-		Console.WriteLine("Enter any three numbers");
+		Console.WriteLine("Enter Amount , time and interest rate");
 		float p= int.Parse(Console.ReadLine());	
 		float t= int.Parse(Console.ReadLine());
 		float r= int.Parse(Console.ReadLine());

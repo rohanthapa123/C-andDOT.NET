@@ -1,0 +1,221 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\rohan-lab2\\switchnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|solutionrelative:rohan-lab2\\switchnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\rohan-lab2\\sumofintergets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|solutionrelative:rohan-lab2\\sumofintergets.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\rohan-lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|solutionrelative:rohan-lab2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\rohan-lab2\\primeornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|solutionrelative:rohan-lab2\\primeornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\rohan-lab2\\positivenegative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|solutionrelative:rohan-lab2\\positivenegative.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\rohan-lab2\\perfectnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|solutionrelative:rohan-lab2\\perfectnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\rohan-lab2\\largestnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|solutionrelative:rohan-lab2\\largestnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\rohan-lab2\\fibonacciseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|solutionrelative:rohan-lab2\\fibonacciseries.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\rohan-lab2\\cubeofnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|solutionrelative:rohan-lab2\\cubeofnumber.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|c:\\users\\rohanthapa\\desktop\\\u00A0\\fifth sem\\dot.net\\repos\\rohan-lab2\\rohan-lab2\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|solutionrelative:rohan-lab2\\sort.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\rohan-lab2\\armstrongornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8E86D5D0-0990-44DC-9DC3-F820B648F665}|Rohan-Lab2\\Rohan-Lab2.csproj|solutionrelative:rohan-lab2\\armstrongornot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|Rohan-Lab2||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PrimeOrNot.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\PrimeOrNot.cs",
+              "RelativeDocumentMoniker": "Rohan-Lab2\\PrimeOrNot.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\PrimeOrNot.cs",
+              "RelativeToolTip": "Rohan-Lab2\\PrimeOrNot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:56:15.92Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\Program.cs",
+              "RelativeDocumentMoniker": "Rohan-Lab2\\Program.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\Program.cs",
+              "RelativeToolTip": "Rohan-Lab2\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:06:05.257Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SumOfIntergets.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\SumOfIntergets.cs",
+              "RelativeDocumentMoniker": "Rohan-Lab2\\SumOfIntergets.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\SumOfIntergets.cs",
+              "RelativeToolTip": "Rohan-Lab2\\SumOfIntergets.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:54:56.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SwitchNumber.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\SwitchNumber.cs",
+              "RelativeDocumentMoniker": "Rohan-Lab2\\SwitchNumber.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\SwitchNumber.cs*",
+              "RelativeToolTip": "Rohan-Lab2\\SwitchNumber.cs*",
+              "ViewState": "AQIAABkAAAAAAAAAAAAIwDEAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:56:02.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "PositiveNegative.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\PositiveNegative.cs",
+              "RelativeDocumentMoniker": "Rohan-Lab2\\PositiveNegative.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\PositiveNegative.cs",
+              "RelativeToolTip": "Rohan-Lab2\\PositiveNegative.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:54:59.95Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "PerfectNumber.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\PerfectNumber.cs",
+              "RelativeDocumentMoniker": "Rohan-Lab2\\PerfectNumber.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\PerfectNumber.cs",
+              "RelativeToolTip": "Rohan-Lab2\\PerfectNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACIAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:55:29.489Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "LargestNumber.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\LargestNumber.cs",
+              "RelativeDocumentMoniker": "Rohan-Lab2\\LargestNumber.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\LargestNumber.cs",
+              "RelativeToolTip": "Rohan-Lab2\\LargestNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-20T07:55:47.619Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "FibonacciSeries.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\FibonacciSeries.cs",
+              "RelativeDocumentMoniker": "Rohan-Lab2\\FibonacciSeries.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\FibonacciSeries.cs",
+              "RelativeToolTip": "Rohan-Lab2\\FibonacciSeries.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:55:04.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "CubeOfNumber.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\CubeOfNumber.cs",
+              "RelativeDocumentMoniker": "Rohan-Lab2\\CubeOfNumber.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\CubeOfNumber.cs",
+              "RelativeToolTip": "Rohan-Lab2\\CubeOfNumber.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:42:30.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Sort.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\Sort.cs",
+              "RelativeDocumentMoniker": "Rohan-Lab2\\Sort.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\Sort.cs",
+              "RelativeToolTip": "Rohan-Lab2\\Sort.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAA2AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-22T15:11:42.623Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ArmstrongOrNot.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\ArmstrongOrNot.cs",
+              "RelativeDocumentMoniker": "Rohan-Lab2\\ArmstrongOrNot.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\ArmstrongOrNot.cs",
+              "RelativeToolTip": "Rohan-Lab2\\ArmstrongOrNot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-19T11:55:38.163Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Rohan-Lab2",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\Rohan-Lab2.csproj",
+              "RelativeDocumentMoniker": "Rohan-Lab2\\Rohan-Lab2.csproj",
+              "ToolTip": "C:\\Users\\RohanThapa\\Desktop\\\u00A0\\fifth sem\\dot.net\\repos\\Rohan-Lab2\\Rohan-Lab2\\Rohan-Lab2.csproj",
+              "RelativeToolTip": "Rohan-Lab2\\Rohan-Lab2.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-07-19T11:53:27.767Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

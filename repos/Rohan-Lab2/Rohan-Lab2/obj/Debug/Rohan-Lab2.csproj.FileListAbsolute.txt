@@ -1,0 +1,7 @@
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\Rohan-Lab2\Rohan-Lab2\bin\Debug\Rohan-Lab2.exe.config
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\Rohan-Lab2\Rohan-Lab2\bin\Debug\Rohan-Lab2.exe
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\Rohan-Lab2\Rohan-Lab2\bin\Debug\Rohan-Lab2.pdb
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\Rohan-Lab2\Rohan-Lab2\obj\Debug\Rohan-Lab2.csproj.AssemblyReference.cache
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\Rohan-Lab2\Rohan-Lab2\obj\Debug\Rohan-Lab2.csproj.CoreCompileInputs.cache
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\Rohan-Lab2\Rohan-Lab2\obj\Debug\Rohan-Lab2.exe
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\Rohan-Lab2\Rohan-Lab2\obj\Debug\Rohan-Lab2.pdb

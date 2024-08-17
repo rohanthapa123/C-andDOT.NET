@@ -1,0 +1,7 @@
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe.config
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\FirstProgram\FirstProgram\bin\Debug\FirstProgram.exe
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\FirstProgram\FirstProgram\bin\Debug\FirstProgram.pdb
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.AssemblyReference.cache
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.csproj.CoreCompileInputs.cache
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.exe
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\FirstProgram\FirstProgram\obj\Debug\FirstProgram.pdb

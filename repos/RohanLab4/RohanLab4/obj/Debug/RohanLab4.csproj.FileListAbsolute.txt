@@ -1,0 +1,7 @@
+C:\Users\RohanThapa\source\repos\RohanLab4\RohanLab4\obj\Debug\RohanLab4.csproj.AssemblyReference.cache
+C:\Users\RohanThapa\source\repos\RohanLab4\RohanLab4\obj\Debug\RohanLab4.csproj.CoreCompileInputs.cache
+C:\Users\RohanThapa\source\repos\RohanLab4\RohanLab4\bin\Debug\RohanLab4.exe.config
+C:\Users\RohanThapa\source\repos\RohanLab4\RohanLab4\bin\Debug\RohanLab4.exe
+C:\Users\RohanThapa\source\repos\RohanLab4\RohanLab4\bin\Debug\RohanLab4.pdb
+C:\Users\RohanThapa\source\repos\RohanLab4\RohanLab4\obj\Debug\RohanLab4.exe
+C:\Users\RohanThapa\source\repos\RohanLab4\RohanLab4\obj\Debug\RohanLab4.pdb

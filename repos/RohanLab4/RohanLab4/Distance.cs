@@ -33,8 +33,8 @@ namespace RohanLab4
 
         public void substractDistance(int f, int i)
         {
-            feet += f;
-            inch += i;
+            feet -= f;
+            inch -= i;
             if (inch < 0)
             {
                 feet -= (Math.Abs(inch) / 12) + 1;

@@ -16,7 +16,6 @@ namespace RohanLab4
         
         }
 
-
         public static void printName()
         {
             Console.WriteLine("My name is " + name);

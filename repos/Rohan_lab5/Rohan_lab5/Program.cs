@@ -16,8 +16,6 @@ namespace Rohan_lab5
         }
         public abstract string GetName();
 
-
-
     }
 
     public class Second : AbstractExample

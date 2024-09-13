@@ -5,3 +5,10 @@ C:\Users\RohanThapa\source\repos\Rohan_lab5\Rohan_lab5\obj\Debug\Rohan_lab5.cspr
 C:\Users\RohanThapa\source\repos\Rohan_lab5\Rohan_lab5\obj\Debug\Rohan_lab5.csproj.CoreCompileInputs.cache
 C:\Users\RohanThapa\source\repos\Rohan_lab5\Rohan_lab5\obj\Debug\Rohan_lab5.exe
 C:\Users\RohanThapa\source\repos\Rohan_lab5\Rohan_lab5\obj\Debug\Rohan_lab5.pdb
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\Rohan_lab5\Rohan_lab5\bin\Debug\Rohan_lab5.exe.config
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\Rohan_lab5\Rohan_lab5\bin\Debug\Rohan_lab5.exe
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\Rohan_lab5\Rohan_lab5\bin\Debug\Rohan_lab5.pdb
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\Rohan_lab5\Rohan_lab5\obj\Debug\Rohan_lab5.csproj.AssemblyReference.cache
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\Rohan_lab5\Rohan_lab5\obj\Debug\Rohan_lab5.csproj.CoreCompileInputs.cache
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\Rohan_lab5\Rohan_lab5\obj\Debug\Rohan_lab5.exe
+C:\Users\RohanThapa\Desktop\ \fifth sem\dot.net\repos\Rohan_lab5\Rohan_lab5\obj\Debug\Rohan_lab5.pdb

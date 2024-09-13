@@ -15,7 +15,6 @@ namespace Rohan_lab5
             this.name = name;
         }
 
-
     }
 
     public class Student : Person

@@ -23,7 +23,7 @@ namespace RohanLab4
 
         public int findSurfaceArea()
         {
-            return 2 * ((width * height) + (height * depth) + (depth + width));
+            return 2 * ((width * height) + (height * depth) + (depth * width));
         }
     }
 

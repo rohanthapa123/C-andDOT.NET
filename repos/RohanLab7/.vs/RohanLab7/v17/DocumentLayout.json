@@ -1,0 +1,157 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{00000000-0000-0000-0000-000000000000}|\u003CSolution\u003E|RohanLab7||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C622E4-8E45-4286-9F9D-0D887A44B329}|RohanLab7\\RohanLab7.csproj|C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\rohanlab7\\invalidcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C622E4-8E45-4286-9F9D-0D887A44B329}|RohanLab7\\RohanLab7.csproj|solutionrelative:rohanlab7\\invalidcast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C622E4-8E45-4286-9F9D-0D887A44B329}|RohanLab7\\RohanLab7.csproj|C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\rohanlab7\\indexoutofbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C622E4-8E45-4286-9F9D-0D887A44B329}|RohanLab7\\RohanLab7.csproj|solutionrelative:rohanlab7\\indexoutofbound.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C622E4-8E45-4286-9F9D-0D887A44B329}|RohanLab7\\RohanLab7.csproj|C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\rohanlab7\\qnsno4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C622E4-8E45-4286-9F9D-0D887A44B329}|RohanLab7\\RohanLab7.csproj|solutionrelative:rohanlab7\\qnsno4.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C622E4-8E45-4286-9F9D-0D887A44B329}|RohanLab7\\RohanLab7.csproj|c:\\users\\rohanthapa\\source\\repos\\rohanlab7\\rohanlab7\\qnsno6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C622E4-8E45-4286-9F9D-0D887A44B329}|RohanLab7\\RohanLab7.csproj|solutionrelative:rohanlab7\\qnsno6.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C622E4-8E45-4286-9F9D-0D887A44B329}|RohanLab7\\RohanLab7.csproj|C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\rohanlab7\\qnsno5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C622E4-8E45-4286-9F9D-0D887A44B329}|RohanLab7\\RohanLab7.csproj|solutionrelative:rohanlab7\\qnsno5.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C622E4-8E45-4286-9F9D-0D887A44B329}|RohanLab7\\RohanLab7.csproj|C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\rohanlab7\\lambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C622E4-8E45-4286-9F9D-0D887A44B329}|RohanLab7\\RohanLab7.csproj|solutionrelative:rohanlab7\\lambda.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C622E4-8E45-4286-9F9D-0D887A44B329}|RohanLab7\\RohanLab7.csproj|C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\rohanlab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F1C622E4-8E45-4286-9F9D-0D887A44B329}|RohanLab7\\RohanLab7.csproj|solutionrelative:rohanlab7\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F1C622E4-8E45-4286-9F9D-0D887A44B329}|RohanLab7\\RohanLab7.csproj|c:\\users\\rohanthapa\\source\\repos\\rohanlab7\\rohanlab7\\||{B270807C-D8C6-49EB-8EBE-8E8D566637A1}|5e9a8ac2-4f34-4521-858f-4c248ba31532"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InvalidCast.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\InvalidCast.cs",
+              "RelativeDocumentMoniker": "RohanLab7\\InvalidCast.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\InvalidCast.cs",
+              "RelativeToolTip": "RohanLab7\\InvalidCast.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwBIAAAAnAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T03:54:31.742Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Qnsno5.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\Qnsno5.cs",
+              "RelativeDocumentMoniker": "RohanLab7\\Qnsno5.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\Qnsno5.cs",
+              "RelativeToolTip": "RohanLab7\\Qnsno5.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAYwCkAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T03:32:35.675Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RohanLab7",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\RohanLab7.csproj",
+              "RelativeDocumentMoniker": "RohanLab7\\RohanLab7.csproj",
+              "ToolTip": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\RohanLab7.csproj*",
+              "RelativeToolTip": "RohanLab7\\RohanLab7.csproj*",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001001|",
+              "WhenOpened": "2024-09-12T04:12:45.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Qnsno4.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\Qnsno4.cs",
+              "RelativeDocumentMoniker": "RohanLab7\\Qnsno4.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\Qnsno4.cs",
+              "RelativeToolTip": "RohanLab7\\Qnsno4.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA8AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T03:41:26.403Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IndexOutofBound.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\IndexOutofBound.cs",
+              "RelativeDocumentMoniker": "RohanLab7\\IndexOutofBound.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\IndexOutofBound.cs",
+              "RelativeToolTip": "RohanLab7\\IndexOutofBound.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAsAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T03:47:53.496Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\Program.cs",
+              "RelativeDocumentMoniker": "RohanLab7\\Program.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\Program.cs",
+              "RelativeToolTip": "RohanLab7\\Program.cs",
+              "ViewState": "AQIAAAoAAAAAAAAAAAA1wB0AAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T03:08:40.336Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Qnsno6.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\Qnsno6.cs",
+              "RelativeDocumentMoniker": "RohanLab7\\Qnsno6.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\Qnsno6.cs",
+              "RelativeToolTip": "RohanLab7\\Qnsno6.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBYAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T04:08:32.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Lambda.cs",
+              "DocumentMoniker": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\Lambda.cs",
+              "RelativeDocumentMoniker": "RohanLab7\\Lambda.cs",
+              "ToolTip": "C:\\Users\\RohanThapa\\source\\repos\\RohanLab7\\RohanLab7\\Lambda.cs",
+              "RelativeToolTip": "RohanLab7\\Lambda.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABQAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-12T03:56:56.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,7 @@
+C:\Users\RohanThapa\source\repos\RohanLab7\RohanLab7\bin\Debug\RohanLab7.exe.config
+C:\Users\RohanThapa\source\repos\RohanLab7\RohanLab7\bin\Debug\RohanLab7.exe
+C:\Users\RohanThapa\source\repos\RohanLab7\RohanLab7\bin\Debug\RohanLab7.pdb
+C:\Users\RohanThapa\source\repos\RohanLab7\RohanLab7\obj\Debug\RohanLab7.csproj.AssemblyReference.cache
+C:\Users\RohanThapa\source\repos\RohanLab7\RohanLab7\obj\Debug\RohanLab7.csproj.CoreCompileInputs.cache
+C:\Users\RohanThapa\source\repos\RohanLab7\RohanLab7\obj\Debug\RohanLab7.exe
+C:\Users\RohanThapa\source\repos\RohanLab7\RohanLab7\obj\Debug\RohanLab7.pdb
